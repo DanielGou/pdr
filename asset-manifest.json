@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.58de5470.chunk.css",
-    "main.js": "/static/js/main.0a1a2420.chunk.js",
-    "main.js.map": "/static/js/main.0a1a2420.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ad462f67.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ad462f67.js.map",
-    "static/js/2.aa17fb81.chunk.js": "/static/js/2.aa17fb81.chunk.js",
-    "static/js/2.aa17fb81.chunk.js.map": "/static/js/2.aa17fb81.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.58de5470.chunk.css.map": "/static/css/main.58de5470.chunk.css.map",
-    "static/js/2.aa17fb81.chunk.js.LICENSE.txt": "/static/js/2.aa17fb81.chunk.js.LICENSE.txt",
-    "static/media/background.208ef50c.jpg": "/static/media/background.208ef50c.jpg",
-    "static/media/App.css": "/static/media/pdr-mobile.aa287439.png",
-    "static/media/praia-do-rosa-vista-rosa-norte-trilha.a95f4821.jpg": "/static/media/praia-do-rosa-vista-rosa-norte-trilha.a95f4821.jpg",
-    "static/media/praia-do-rosa.c62cc91c.jpg": "/static/media/praia-do-rosa.c62cc91c.jpg",
-    "static/media/praiadorosa.a855e1c8.jpg": "/static/media/praiadorosa.a855e1c8.jpg",
-    "static/media/rosa-decima.a1a20083.jpg": "/static/media/rosa-decima.a1a20083.jpg"
+    "main.css": "/pdr/static/css/main.7d475f3f.chunk.css",
+    "main.js": "/pdr/static/js/main.0a1a2420.chunk.js",
+    "main.js.map": "/pdr/static/js/main.0a1a2420.chunk.js.map",
+    "runtime-main.js": "/pdr/static/js/runtime-main.7e8d8e4b.js",
+    "runtime-main.js.map": "/pdr/static/js/runtime-main.7e8d8e4b.js.map",
+    "static/js/2.aa17fb81.chunk.js": "/pdr/static/js/2.aa17fb81.chunk.js",
+    "static/js/2.aa17fb81.chunk.js.map": "/pdr/static/js/2.aa17fb81.chunk.js.map",
+    "index.html": "/pdr/index.html",
+    "static/css/main.7d475f3f.chunk.css.map": "/pdr/static/css/main.7d475f3f.chunk.css.map",
+    "static/js/2.aa17fb81.chunk.js.LICENSE.txt": "/pdr/static/js/2.aa17fb81.chunk.js.LICENSE.txt",
+    "static/media/background.208ef50c.jpg": "/pdr/static/media/background.208ef50c.jpg",
+    "static/media/App.css": "/pdr/static/media/pdr-mobile.aa287439.png",
+    "static/media/praia-do-rosa-vista-rosa-norte-trilha.a95f4821.jpg": "/pdr/static/media/praia-do-rosa-vista-rosa-norte-trilha.a95f4821.jpg",
+    "static/media/praia-do-rosa.c62cc91c.jpg": "/pdr/static/media/praia-do-rosa.c62cc91c.jpg",
+    "static/media/praiadorosa.a855e1c8.jpg": "/pdr/static/media/praiadorosa.a855e1c8.jpg",
+    "static/media/rosa-decima.a1a20083.jpg": "/pdr/static/media/rosa-decima.a1a20083.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad462f67.js",
+    "static/js/runtime-main.7e8d8e4b.js",
     "static/js/2.aa17fb81.chunk.js",
-    "static/css/main.58de5470.chunk.css",
+    "static/css/main.7d475f3f.chunk.css",
     "static/js/main.0a1a2420.chunk.js"
   ]
 }
